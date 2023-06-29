@@ -1,0 +1,11 @@
+com\plugin\listener\ConnectListener.class
+com\plugin\R6.class
+com\plugin\manager\ConfigManager.class
+com\plugin\listener\GameListener.class
+com\plugin\manager\ArenaManager.class
+com\plugin\command\ArenaCommand.class
+com\plugin\instance\Countdown.class
+com\plugin\instance\Arena.class
+com\plugin\instance\Team.class
+com\plugin\GameState.class
+com\plugin\instance\Game.class
